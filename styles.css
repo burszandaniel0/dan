@@ -1,0 +1,17 @@
+body {
+    background: #e7c9a9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+}
+
+main {
+    height: 55vh;
+    width: 65vw;
+    background: white;
+    border: 1px solid darkgray;
+    box-shadow: 12px 12px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
